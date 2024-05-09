@@ -10,7 +10,7 @@ has the potential to revolutionise the human interaction with robots and benefit
 technology in our daily lives. <br>
 
   
-This project consists of a human eye robot capable of tracking moving objects and follow them like a naturam human gaze by implementing computer vision techniques, robotics system design methods, and real-time processing. </p>
+This project consists of a human eye robot capable of tracking moving objects and follow them like a natural human gaze by implementing computer vision techniques, robotics system design methods, and real-time processing. </p>
 
 
 https://github.com/BaudouinBelpaire/Human_Eye_Mechanism/assets/157626337/5f909f16-d755-4f58-903e-bf678d4a4dc7
