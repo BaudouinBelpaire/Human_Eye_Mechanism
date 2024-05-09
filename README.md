@@ -7,7 +7,7 @@ robots can enhance human-robot interactions in various fields. In social robotic
 robots with a realistic gaze behaviour can foster deeper connections with users. As research
 progresses in this area, the integration of sophisticated gaze behaviour into humanoid robots 
 has the potential to revolutionise the human interaction with robots and benefit from robotic 
-technology in our daily lives. <br>
+technology in our daily lives. <br><br>
 
   
 This project consists of a human eye robot capable of tracking moving objects and follow them like a natural human gaze by implementing computer vision techniques, robotics system design methods, and real-time processing. </div>
